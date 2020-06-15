@@ -8,5 +8,13 @@
 
 <p align="center">
 I ride bikes
-![bikes](https://media.giphy.com/media/RhSiIe2u05WOn0obtb/giphy.gif)
+<img src="https://media.giphy.com/media/RhSiIe2u05WOn0obtb/giphy.gif" width="300" />
+  
+I like pancakes
+<img src="https://media.giphy.com/media/fbsMixt3BQBKU/giphy.gif" width="300" />
+
+
+I like Star Wars
+<img src="https://media.giphy.com/media/3o6fIY19RBeo9NFpcc/giphy.gif" width="300" />
+
 </p>
