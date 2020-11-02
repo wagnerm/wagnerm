@@ -1,15 +1,20 @@
 👋 Hi, I'm Max! I'm a Software Engineer @GitHub.
 
-### About Me
+Here you will find a collection of gifs that represent me.
 
-I like to ride bikes
+<p align="center">I like to ride bikes and run around</p>
+<p align="center">
+  <img src="https://media.giphy.com/media/RhSiIe2u05WOn0obtb/giphy.gif" width="300" />
+  <img src="https://media.giphy.com/media/ntHi36Hntn5sI/giphy.gif" width="300" />
+</p>
 
-<img src="https://media.giphy.com/media/RhSiIe2u05WOn0obtb/giphy.gif" width="300" />
+<p align="center">Pancakes are the best</p>
+<p align="center">
+  <img src="https://media.giphy.com/media/fbsMixt3BQBKU/giphy.gif" width="300" />
+</p>
 
-Pancakes are the best
-
-<img src="https://media.giphy.com/media/fbsMixt3BQBKU/giphy.gif" width="300" />
-
-Star Wars is life
-
-<img src="https://media.giphy.com/media/3ohjV4HLvvA2qQfVgQ/giphy.gif" width="300" />
+<p align="center">Star Wars is life</p>
+<p align="center">
+  <img src="https://media.giphy.com/media/3ohjV4HLvvA2qQfVgQ/giphy.gif" width="300" />
+  <img src="https://media.giphy.com/media/Wn74RUT0vjnoU98Hnt/giphy.gif" width="300" />
+</p>
